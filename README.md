@@ -2,7 +2,7 @@
 An ultra-lightweight computer programme with three-fifths the memory footprint of a Microsoft computer.
 # Build
 Build under Release X64  
-Debug has problem
+Debug has problems
 # Reasoning
 Set each state as a variable, e.g. the first number as First, the second number as Second, add, subtract, multiply or divide as Way = 1 or 2 or 3 or 4, and then use if or switch to execute.  
 # Issues
